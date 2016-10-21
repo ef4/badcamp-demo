@@ -1,0 +1,7 @@
+.big-title {
+    color: blue;
+}
+
+nav a.active {
+    color: red;
+}
